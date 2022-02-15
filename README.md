@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Меня зовут Сайран
+
+
+####Хочу стать Golang разработчиком. 
+####Знаю основы SQL, Python.
+####Интересуюсь Data Science. 
+
+Здесь будет расположен мой roadmap и проекты
+
 
 <!--
 **Sairan-ds/Sairan-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
