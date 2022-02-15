@@ -15,10 +15,7 @@
   
   
   
-  # Roadmap - Backend Developer
-
-
-# Contents:
+  # Roadmap - Backend Developer:
 - [Internet](sections/01-Internet.md)
 - [Basic Frontend Knowledge](sections/02-BasicFrontendKnowledge.md)
 - [OS and General Knowledge](sections/03-OSandGeneralKnowledge.md)
@@ -42,7 +39,7 @@
 - [Web Servers](sections/21-WebServers.md)
 - [Building for Scale](sections/22-BuildingForScale.md)
 
-# Full Table Of Contents:
+# Подтемы :
 ##  Internet
 - [How does the internet works?](sections/01-Internet.md#How_does_the_internet_works)
 - [What is HTTP?](sections/01-Internet.md#HTTP)
@@ -51,42 +48,6 @@
 - [What is Domain Name?](sections/01-Internet.md#Domain)
 - [What is hosting?](sections/01-Internet.md#Hosting)
 
-## Basic Engineering Skills
-- [Learn To Code](sections/02-BasicSkills.md#learn-to-code)
-- [Get Familiar With Git](sections/02-BasicSkills.md#get-familiar-with-git)
-- [Agile Development](sections/02-BasicSkills.md#agile-development)
-  - [Why is agile so important?](sections/02-BasicSkills.md#Why-is-agile-so-important)
-  - [Agile rules I learned over the years](sections/02-BasicSkills.md#agile-rules-i-learned-over-the-years)
-  - [Agile Frameworks](sections/02-BasicSkills.md#agile-frameworks)
-    - [Scrum](sections/02-BasicSkills.md#scrum)
-    - [OKR](sections/02-BasicSkills.md#okr)
-- [Software Engineering Culture](sections/02-BasicSkills.md#software-engineering-culture)
-- [Learn how a Computer Works](sections/02-BasicSkills.md#learn-how-a-computer-works)
-- [Data Network Transmission](sections/02-BasicSkills.md#data-network-transmission)
-- [Security and Privacy](sections/02-BasicSkills.md#security-and-privacy)
-  - [SSL Public and Private Key Certificates](sections/02-BasicSkills.md#ssl-public-and-private-key-Certificates)
-  - [JSON Web Tokens](sections/02-BasicSkills.md#json-web-tokens)
-  - [GDPR regulations](sections/02-BasicSkills.md#gdpr-regulations)
-- [Linux](sections/02-BasicSkills.md#linux)
-  - [OS Basics](sections/02-BasicSkills.md#os-basics)
-  - [Shell scripting](sections/02-BasicSkills.md#shell-scripting)
-  - [Cron Jobs](sections/02-BasicSkills.md#cron-jobs)
-  - [Packet Management](sections/02-BasicSkills.md#packet-management)
-- [Docker](sections/02-BasicSkills.md#docker)
-  - [What is Docker and How it Works](sections/02-BasicSkills.md#what-is-docker-and-what-do-you-use-it-for)
-    -  [Don't Mess Up Your System](sections/02-BasicSkills.md#dont-mess-up-your-system)
-    - [Preconfigured Images](sections/02-BasicSkills.md#preconfigured-images)
-    - [Take it With You](sections/02-BasicSkills.md#take-it-with-you)
-    - [Kubernetes Container Deployment](sections/02-BasicSkills.md#kubernetes-container-deployment)
-    - [How to Create Start and Stop a Container](sections/02-BasicSkills.md#how-to-create-start-stop-a-container)
-    - [Docker Micro Services](sections/02-BasicSkills.md#docker-micro-services)
-    - [Kubernetes](sections/02-BasicSkills.md#kubernetes)
-    - [Why and How To Do Docker Container Orchestration](sections/02-BasicSkills.md#why-and-how-to-do-docker-container-orchestration)
-    - [Userful Docker Commands](sections/02-BasicSkills.md#useful-docker-commands)
-- [The Cloud](sections/02-BasicSkills.md#the-cloud)
-  - [IaaS vs PaaS vs SaaS](sections/02-BasicSkills.md#iaas-vs-paas-vs-saas)
-  - [AWS Azure IBM Google IBM](sections/02-BasicSkills.md#aws-azure-ibm-google)
-  - [Cloud vs On-Premises](sections/02-BasicSkills.md#cloud-vs-on-premises)
   - [Security](sections/02-BasicSkills.md#security)
   - [Hybrid Clouds](sections/02-BasicSkills.md#hybrid-clouds)
 - [Security Zone Design](sections/02-BasicSkills.md#security-zone-design)
