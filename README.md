@@ -19,15 +19,29 @@
 
 
 # Contents:
-- [Introduction](sections/01-Introduction.md)
-- [Basic Engineering Skills](sections/02-BasicSkills.md)
-- [Advanced Engineering Skills](sections/03-AdvancedSkills.md)
-- [Hands On Course](sections/04-HandsOnCourse.md)‚
-- [Case Studies](sections/05-CaseStudies.md)
-- [Best Practices Cloud Platforms](sections/06-BestPracticesCloud.md)
-- [130+ Data Sources Data Science](sections/07-DataSources.md)
-- [1001 Interview Questions](sections/08-InterviewQuestions.md)
-- [Recommended Books and Courses](sections/09-BooksAndCourses.md)
+- [Internet](sections/01-Internet.md)
+- [Basic Frontend Knowledge](sections/02-BasicFrontendKnowledge.md)
+- [OS and General Knowledge](sections/03-OSandGeneralKnowledge.md)
+- [Golang language](sections/04-Golanglanguage.md)‚
+- [Version Control Systems](sections/05-VersionControlSystems.md)
+- [Relational Databases](sections/06-RelationalDatabases.md)
+- [More about Databases](sections/07-MoreAboutDatabases.md)
+- [NoSQL Databases](sections/08-NoSQLDatabases.md)
+- [Learn about APIs](sections/09-LearnAboutAPIs.md)
+- [Caching](sections/10-Caching.md)
+- [Web Security Knowledge](sections/11-WebSecurityKnowledge.md)
+- [Testing](sections/12-Testing.md)
+- [CI/CD](sections/13-CICD.md)
+- [Design and Development Principles](sections/14-DesignAndDevelopmentPrinciples.md)
+- [Architectural patterns](sections/15-ArchitecturalPatterns.md)
+- [Message Brokers](sections/16-MessageBrokers.md)
+- [Containerization vs Virtualization](sections/17-ContainerizationVsVirtualization.md)
+- [GraphQL](sections/18-GraphQL.md)
+- [Graph Databases](sections/19-GraphDatabases.md)
+- [WebSockets](sections/20-GraphQL.md)
+- [Web Servers](sections/21-WebServers.md)
+- [Building for Scale](sections/22-BuildingForScale.md)
+
 <!--  -->
 
 - [How To Contribute](#how-to-contribute)
