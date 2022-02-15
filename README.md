@@ -5,7 +5,18 @@
 #### Знаю основы SQL, Python.
 #### Интересуюсь Data Science. 
 
-Здесь будет расположен мой roadmap и проекты
+Здесь будет расположен мой roadmap.
+
+
+<p align="center">
+	<a href="sections/Internet.md">Internet?</a>&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;
+
+  
+  
+  
+  # Top 
+   - [How To Contribute](#how-to-contribute)
 
 
 <!--
