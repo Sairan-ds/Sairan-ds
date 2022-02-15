@@ -40,20 +40,13 @@
 - [Building for Scale](sections/22-BuildingForScale.md)
 
 # Подтемы :
-##  Internet
+##  [Internet](sections/01-Internet.md)
 - [How does the internet works?](sections/01-Internet.md#How_does_the_internet_works)
 - [What is HTTP?](sections/01-Internet.md#HTTP)
 - [Browsers and how they work](sections/01-Internet.md#Browsers)
 - [Dns and how it workds?](sections/01-Internet.md#DNS)
 - [What is Domain Name?](sections/01-Internet.md#Domain)
 - [What is hosting?](sections/01-Internet.md#Hosting)
-
-  - [Security](sections/02-BasicSkills.md#security)
-  - [Hybrid Clouds](sections/02-BasicSkills.md#hybrid-clouds)
-- [Security Zone Design](sections/02-BasicSkills.md#security-zone-design)
-  - [How to secure a multi layered application](sections/02-BasicSkills.md#how-to-secure-a-multi-layered-application)
-  - [Cluster security with Kerberos](sections/02-BasicSkills.md#cluster-security-with-kerberos)
-
 
 
 ## Recommended Books and Courses
