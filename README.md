@@ -2,8 +2,8 @@
 
 
 #### Хочу стать Golang разработчиком. 
-#### Знаю основы SQL, Python.
-#### Интересуюсь Data Science. 
+ Знаю основы SQL, Python.
+ Интересуюсь Data Science. 
 
 Здесь будет расположен мой roadmap.
 
@@ -16,56 +16,7 @@
   
   
   # Roadmap - Backend Developer
-<!--- # The Data Engineering Cookbook -->
 
-<div align="center">
-	<img width="341" height="426" src="images/CookbookCover.jpg" alt="Data Engineering Cookbook">
-	<br>
-	<br>
-	<br>
-</div>
-
-<p align="center">
-	<a href="sections/01-Introduction.md">What is this Book?</a>&nbsp;&nbsp;&nbsp;
-  <a href="#how-to-contribute">How to Contribute</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA">YouTube</a>&nbsp;&nbsp;&nbsp;
-	<a
-  <a href="https://twitter.com/andreaskayy">Twitter</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.amazon.com/shop/plumbersofdatascience">Amazon Shop</a>
-</p>
-
-<br>
-
-## If You Like This Book & Need More Help
-Check out my Data Engineering Academy and personal Coaching at LearnDataEngineering.com
-
-**Visit learndataengineering.com:** [Click Here](https://learndataengineering.com)
-
-- New content every week!
-- Step by step course from researching job postings, creating and doing your project to job application tips
-- Full AWS Data Engineering example project (Azure in development)
-- 1+ hours Ultimate Introduction to Data Engineering course
-- Data Engineering Fundamentals course
-- Data Platform & Pipeline Design course
-- Apache Spark Fundamentals course
-- Choosing Data Stores Course
-- Private Member Slack Workspace (lifetime access)
-- Weekly Q&A live stream & Archive
-- Currently over 24 hours of videos
-
-
-## Support This Book For Free!
-- **Amazon:** [Click Here](https://www.amazon.com/shop/plumbersofdatascience) buy whatever you like from Amazon using this link* (Also check out my complete podcast gear and books)
-
-<!---
-I get asked super often how to become a Data Engineer.
-That's why I decided to start this cookbook with all the topics you need to look into.
-
-It's not only useful for beginners, professionals will definitely like the case study section.
-
-If you look for the old PDF version it's [here](https://github.com/andkret/Cookbook/raw/LaTex-Version-Deprecated/Data%20Engineering%20Cookbook.pdf)
-
--->
 
 # Contents:
 - [Introduction](sections/01-Introduction.md)
